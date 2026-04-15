@@ -4,7 +4,8 @@
 * **Instituição:** Centro Universitário da Fundação Santo André (FSA) / UNICID
 * **Curso:** [Inserir Nome do Curso]
 * **Grupo:** [Inserir Nome ou Número do Grupo]
-* **Integrantes:** * [Nome Completo] - RA: [000000]
+* **Integrantes:**
+    * [Nome Completo] - RA: [000000]
     * [Nome Completo] - RA: [000000]
     * [Nome Completo] - RA: [000000]
 
